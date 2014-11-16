@@ -2,9 +2,9 @@
 
 ## Usage
 
-To get the summary of a document, LSASummarization.jar file should be run.
-"LSASummarization.jar" file and "externalJars" directories should be in the same
-directory. Run following on command line:
+To get the summary of a document, run `LSASummarization.jar`.
+`LSASummarization.jar` and `externalJars` directory should be in the same
+directory. Run the following on command line:
 
     java -jar LSASummarization.jar <input-file> <output-file> <number-of-summary-sentences>
     
